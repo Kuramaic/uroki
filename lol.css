@@ -1,0 +1,437 @@
+/*Pervyi primer*/
+
+/*.text-white{*/
+/*    color: #ffffff;*/
+/*}*/
+/*#d1{*/
+/*    background-color: #d00000;*/
+/*}*/
+/*#d1 > div > p{*/
+/*    background-color: #6e0000;*/
+/*}*/
+/*#d2{*/
+/*    background-color: darkorange ;*/
+/*}*/
+/*#d2 > div > p{*/
+/*    background-color: darkgoldenrod;*/
+/*}*/
+/*#d3{*/
+/*    background-color: #67ff00;*/
+/*}*/
+/*#d3 > div > p{*/
+/*    background-color: rgb(73, 182, 1);*/
+/*}*/
+/*#d4{*/
+/*    background-color: #00ffe9;*/
+/*}*/
+/*#d4 > div > p{*/
+/*    background-color: rgb(0, 159, 144);*/
+/*}*/
+
+
+
+/*vtoroy primer*/
+/*.block{*/
+/*    width: 170px;*/
+/*}*/
+/*.text-white{*/
+/*    color: #ffffff;*/
+/*}*/
+/*#d1{*/
+/*    background-color: #d00000;*/
+/*}*/
+/*#d1 > div > p{*/
+/*    background-color: #6e0000;*/
+/*}*/
+/*#d2{*/
+/*    background-color: darkorange ;*/
+/*}*/
+/*#d2 > div > p{*/
+/*    background-color: darkgoldenrod;*/
+/*}*/
+/*#d3{*/
+/*    background-color: #67ff00;*/
+/*}*/
+/*#d3 > div > p{*/
+/*    background-color: rgb(73, 182, 1);*/
+/*}*/
+/*#d4{*/
+/*    background-color: #00ffe9;*/
+/*}*/
+/*#d4 > div > p{*/
+/*    background-color: rgb(0, 159, 144);*/
+/*}*/
+
+
+
+/*tretiy primer*/
+/*.block{*/
+/*    display: inline-block;*/
+/*}*/
+/*.text-white{*/
+/*    color: #ffffff;*/
+/*}*/
+/*#d1{*/
+/*    background-color: #d00000;*/
+/*}*/
+/*#d1 > div > p{*/
+/*    background-color: #6e0000;*/
+/*}*/
+/*#d2{*/
+/*    background-color: darkorange ;*/
+/*}*/
+/*#d2 > div > p{*/
+/*    background-color: darkgoldenrod;*/
+/*}*/
+/*#d3{*/
+/*    background-color: #67ff00;*/
+/*}*/
+/*#d3 > div > p{*/
+/*    background-color: rgb(73, 182, 1);*/
+/*}*/
+/*#d4{*/
+/*    background-color: #00ffe9;*/
+/*}*/
+/*#d4 > div > p{*/
+/*    background-color: rgb(0, 159, 144);*/
+/*}*/
+
+
+
+/*chetvertiy primer*/
+/*.block{*/
+/*    width: 170px;*/
+/*    display: inline-block;*/
+/*}*/
+/*.text-white{*/
+/*    color: #ffffff;*/
+/*}*/
+/*#d1{*/
+/*    background-color: #d00000;*/
+/*}*/
+/*#d1 > div > p{*/
+/*    background-color: #6e0000;*/
+/*}*/
+/*#d2{*/
+/*    background-color: darkorange ;*/
+/*}*/
+/*#d2 > div > p{*/
+/*    background-color: darkgoldenrod;*/
+/*}*/
+/*#d3{*/
+/*    background-color: #67ff00;*/
+/*}*/
+/*#d3 > div > p{*/
+/*    background-color: rgb(73, 182, 1);*/
+/*}*/
+/*#d4{*/
+/*    background-color: #00ffe9;*/
+/*}*/
+/*#d4 > div > p{*/
+/*    background-color: rgb(0, 159, 144);*/
+/*}*/
+/*#d1{*/
+/*    position: relative;*/
+/*    top: 15px;*/
+/*}*/
+/*#d2{*/
+/*    position: relative;*/
+/*    bottom: 30px;*/
+/*    right: 30px;*/
+/*}*/
+/*#d3{*/
+/*    position: relative;*/
+/*    left: 40px;*/
+/*    top: 20px;*/
+/*}*/
+/*.block{*/
+/*    width: 170px;*/
+/*    display: inline-block;*/
+/*}*/
+
+
+
+/*5 primer*/
+/*.block{*/
+/*    width: 170px;*/
+/*    display: inline-block;*/
+/*}*/
+/*.text-white{*/
+/*    color: #ffffff;*/
+/*}*/
+/*#d1{*/
+/*    background-color: #d00000;*/
+/*}*/
+/*#d1 > div > p{*/
+/*    background-color: #6e0000;*/
+/*}*/
+/*#d2{*/
+/*    background-color: darkorange ;*/
+/*}*/
+/*#d2 > div > p{*/
+/*    background-color: darkgoldenrod;*/
+/*}*/
+/*#d3{*/
+/*    background-color: #67ff00;*/
+/*}*/
+/*#d3 > div > p{*/
+/*    background-color: rgb(73, 182, 1);*/
+/*}*/
+/*#d4{*/
+/*    background-color: #00ffe9;*/
+/*}*/
+/*#d4 > div > p{*/
+/*    background-color: rgb(0, 159, 144);*/
+/*}*/
+/*#d1{*/
+/*    position: absolute;*/
+/*    left: 0;*/
+/*    top: 0;*/
+/*}*/
+/*#d2{*/
+/*    position: absolute;*/
+/*    right: 0;*/
+/*    top: 0;*/
+/*}*/
+/*#d3{*/
+/*    position: absolute;*/
+/*    left: 0;*/
+/*    bottom: 0;*/
+/*}*/
+/*#d4{*/
+/*    position: absolute;*/
+/*    right: 0;*/
+/*    bottom: 0;*/
+/*}*/
+
+
+/*6 primer*/
+/*.block{*/
+/*    width: 50%;*/
+/*    height: 50%;*/
+/*    display: inline-block;*/
+/*}*/
+/*.text-white{*/
+/*    color: #ffffff;*/
+/*}*/
+/*#d1{*/
+/*    background-color: #d00000;*/
+/*}*/
+/*#d1 > div > p{*/
+/*    background-color: #6e0000;*/
+/*}*/
+/*#d2{*/
+/*    background-color: darkorange ;*/
+/*}*/
+/*#d2 > div > p{*/
+/*    background-color: darkgoldenrod;*/
+/*}*/
+/*#d3{*/
+/*    background-color: #67ff00;*/
+/*}*/
+/*#d3 > div > p{*/
+/*    background-color: rgb(73, 182, 1);*/
+/*}*/
+/*#d4{*/
+/*    background-color: #00ffe9;*/
+/*}*/
+/*#d4 > div > p{*/
+/*    background-color: rgb(0, 159, 144);*/
+/*}*/
+/*#d1{*/
+/*    position: absolute;*/
+/*    left: 0;*/
+/*    top: 0;*/
+/*}*/
+/*#d2{*/
+/*    position: absolute;*/
+/*    right: 0;*/
+/*    top: 0;*/
+/*}*/
+/*#d3{*/
+/*    position: absolute;*/
+/*    left: 0;*/
+/*    bottom: 0;*/
+/*}*/
+/*#d4{*/
+/*    position: absolute;*/
+/*    right: 0;*/
+/*    bottom: 0;*/
+/*}*/
+
+
+/*7 primer*/
+/*.block{*/
+/*    width: 50%;*/
+/*    height: 50%;*/
+/*    display: inline-block;*/
+/*}*/
+/*.block > div > p{*/
+/*    width: 200px;*/
+/*}*/
+/*.text-white{*/
+/*    color: #ffffff;*/
+/*}*/
+/*#d1{*/
+/*    background-color: #d00000;*/
+/*}*/
+/*#d1 > div > p{*/
+/*    background-color: #6e0000;*/
+/*}*/
+/*#d2{*/
+/*    background-color: darkorange ;*/
+/*}*/
+/*#d2 > div > p{*/
+/*    background-color: darkgoldenrod;*/
+/*}*/
+/*#d3{*/
+/*    background-color: #67ff00;*/
+/*}*/
+/*#d3 > div > p{*/
+/*    background-color: rgb(73, 182, 1);*/
+/*}*/
+/*#d4{*/
+/*    background-color: #00ffe9;*/
+/*}*/
+/*#d4 > div > p{*/
+/*    background-color: rgb(0, 159, 144);*/
+/*}*/
+/*#d1{*/
+/*    position: absolute;*/
+/*    left: 0;*/
+/*    top: 0;*/
+/*}*/
+/*#d2{*/
+/*    position: absolute;*/
+/*    right: 0;*/
+/*    top: 0;*/
+/*}*/
+/*#d3{*/
+/*    position: absolute;*/
+/*    left: 0;*/
+/*    bottom: 0;*/
+/*}*/
+/*#d4{*/
+/*    position: absolute;*/
+/*    right: 0;*/
+/*    bottom: 0;*/
+/*}*/
+/*#d11{*/
+/*    position: absolute;*/
+/*    right: 0;*/
+/*    bottom: 0;*/
+/*}*/
+
+/*#d12{*/
+/*    position: absolute;*/
+/*    right: 0;*/
+/*    bottom: 0;*/
+/*}*/
+
+/*#d13{*/
+/*    position: absolute;*/
+/*    right: 0;*/
+/*    bottom: 0;*/
+/*}*/
+
+/*#d14{*/
+/*    position: absolute;*/
+/*    right: 0;*/
+/*    bottom: 0;*/
+/*}*/
+/*#d4 > div > h3 {*/
+/*    color: #00ffe9;*/
+/*}*/
+
+
+
+/*8 primer*/
+/*.block{*/
+/*    width: 50%;*/
+/*    height: 50%;*/
+/*    display: inline-block;*/
+/*}*/
+/*.block > div > p{*/
+/*    width: 200px;*/
+/*}*/
+/*.text-white{*/
+/*    color: #ffffff;*/
+/*}*/
+/*#d1{*/
+/*    background-color: #d00000;*/
+/*}*/
+/*#d1 > div > p{*/
+/*    background-color: #6e0000;*/
+/*}*/
+/*#d2{*/
+/*    background-color: darkorange ;*/
+/*}*/
+/*#d2 > div > p{*/
+/*    background-color: darkgoldenrod;*/
+/*}*/
+/*#d3{*/
+/*    background-color: #67ff00;*/
+/*}*/
+/*#d3 > div > p{*/
+/*    background-color: rgb(73, 182, 1);*/
+/*}*/
+/*#d4{*/
+/*    background-color: #00ffe9;*/
+/*}*/
+/*#d4 > div > p{*/
+/*    background-color: rgb(0, 159, 144);*/
+/*}*/
+/*#d1{*/
+/*    position: absolute;*/
+/*    left: 0;*/
+/*    top: 0;*/
+/*}*/
+/*#d2{*/
+/*    position: absolute;*/
+/*    right: 0;*/
+/*    top: 0;*/
+/*}*/
+/*#d3{*/
+/*    position: absolute;*/
+/*    left: 0;*/
+/*    bottom: 0;*/
+/*}*/
+/*#d4{*/
+/*    position: absolute;*/
+/*    right: 0;*/
+/*    bottom: 0;*/
+/*}*/
+/*#d11{*/
+/*    position: absolute;*/
+/*    right: 0;*/
+/*    bottom: 0;*/
+/*}*/
+
+/*#d12{*/
+/*    position: absolute;*/
+/*    left: 0;*/
+/*    bottom: 0;*/
+/*}*/
+
+/*#d13{*/
+/*    position: absolute;*/
+/*    right: 0;*/
+/*    top: 0;*/
+/*}*/
+
+/*#d14{*/
+/*    position: absolute;*/
+/*    left: 0;*/
+/*    top: 0;*/
+/*}*/
+/*#d4 > div > h3 {*/
+/*    color: #00ffe9;*/
+/*}*/
+
+
+
+
+
+
+
+
