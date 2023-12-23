@@ -27,3 +27,17 @@
     
 
 #16
+# from collections import OrderedDict
+# dick = OrderedDict({1: 1, 2: 2, 3: 3, 4: 4, 5: 5})
+
+# first = list(dick.items())[0]
+# last = list(dick.items())[-1]
+# dick.move_to_end(key=first[0])
+# dick.move_to_end(key=last[0], last=False)
+
+# second = list(dick.items())[1]
+# del dick[second[0]]
+
+# dick['new_key']='new_value'
+
+# print(dick)

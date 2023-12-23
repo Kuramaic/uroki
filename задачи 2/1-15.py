@@ -17,7 +17,7 @@
 # privet(a)
 
 
-#3
+# 3
 # def dooble(a):
 #     m=[]
 #     for i in range(len(a)):
@@ -28,3 +28,4 @@
 #             return True
 #     return False
 # print(dooble('popajopaa'))
+
