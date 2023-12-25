@@ -107,3 +107,30 @@
 # print(up([1,2,3]))
 
 #12
+# def median(n):
+#     n=sorted(n)
+#     l=len(n)
+#     m=l//2
+#     if l%2==0:
+#         return (n[m-1]+n[m])/2
+#     return n[m]
+# print(median([1,2,3,4,5]))
+
+#13
+# print('Произошел кокаиновый сбой')
+
+#14
+# a='fsdfsdfsdfsdfsdfsdf'
+# b=a[::-1]
+# print(b.upper())
+
+
+#15
+# def vrag(imya,vrag):
+#     for i in vrag:
+#         if i in imya:
+#             imya.remove(i)
+#     return imya
+# print(vrag(['попа','непопа','Костя','непопа2'],['Костя']))
+
+
