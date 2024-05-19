@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Форма добаления товаров</title>
+    <link rel="stylesheet" href="1.css">
+</head>
+<body>
+<div class="head">
+    <div class="forma">
+        <h3>Форма добаления товаров</h3>
+        <div>
+            <div>Название</div>
+            <input type="text" id="title" placeholder="Прим: Гаечные ключи">
+        </div>
+        <div>
+            <div>Категория</div>
+            <select id="category">
+                <option>--Выберите один из вариантов--</option>
+                <option value="Продукты">Продукты</option>
+                <option value="Техника">Техника</option>
+                <option value="Украшения">Украшения</option>
+                <option value="Товары для дома">Товары для дома</option>
+                <option value="Одежда">Одежда</option>
+            </select>
+        </div>
+        <div>
+            <div>Стоимость, руб</div>
+            <input type="number" placeholder="0" id="price">
+        </div>
+        <div>
+            <div>Количество</div>
+            <input type="number" placeholder="0" id="count">
+        </div>
+        <div>
+            <div>Есть скидка?</div>
+            <div>
+                <input type="radio" name="discount" id="discountYes">
+                <label for="discountYes">Да</label>
+
+                <input type="radio" name="discount" id="discountNo" checked>
+                <label for="discountNo">Нет</label>
+                <div id="discounts">
+                    <label for="discount">Скидка, %</label>
+                    <input type="number" name="discount" id="discount">
+                </div>
+            </div>
+        </div>
+        <div>
+            <div>Особенности</div>
+            <div>
+                <label for="speciality1" >Б/У</label>
+                <input type="checkbox" name="Б/У" id="speciality1">
+            </div>
+            <div>
+                <label for="speciality2" >Хрупкий</label>
+                <input type="checkbox" name="Хрупкий" id="speciality2">
+            </div>
+        </div>
+        <div>
+            <div>
+                <label for="description">Описание</label>
+                <textarea id="description" placeholder="Добавьте описание"></textarea>
+            </div>
+        </div>
+        <button id="button">Добавить товар</button>
+    </div>
+    <div>
+        <h3>Товары</h3>
+        <div id="list"></div>
+    </div>
+</div>
+<script src="1.js"></script>
+</body>

@@ -1,0 +1,47 @@
+.head{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+}
+.head>div{
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+    margin: 40px 50px;
+}
+.head>div>h3{
+    text-align: center;
+}
+.forma>div,.forma>div>input,.forma>div>select{
+    width: 100%;
+}
+
+.forma{
+    line-height: 2rem;
+}
+#description{
+    width: 100%;
+    height: 125px;
+}
+#button{
+    width: 100%;
+}
+#discounts{
+    display: none;
+}
+
+.item{
+    width: 100%;
+    background-color: #e0e0e0;
+    border-radius: 40px;
+    padding: 20px;
+    margin: 20px 0;
+}
+#zena-discount{
+    display: flex;
+    flex-direction: row;
+}
+#zena-default{
+    display: flex;
+    flex-direction: row;
+}
